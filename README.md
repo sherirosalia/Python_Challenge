@@ -2,7 +2,8 @@
 ## Student success measured against budget constraints
 
 ### About
-Analysis of student academic measurements vs. the budget and size of 15 schools that operate within a district. 
+- Analysis of student academic measurements vs. the budget and size of 15 schools that operate within a district. 
+- The main analysis is in a Jupyter notebook file called "analysis.ipynb' and a very brief synopsis is deployed on <a href='https://sherirosalia.github.io/School_Days/'>Github pages.</a> 
 
 
 ### Frameworks and Dependencies
