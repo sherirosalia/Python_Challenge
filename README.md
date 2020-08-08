@@ -2,18 +2,18 @@
 ## Student success measured against budget constraints
 
 ### About
-Analysis of student academic metrics vs. budget and size of the 15 schools within a district. 
+Analysis of student academic measurements vs. the budget and size of 15 schools that operate within a district. 
 
 
 ### Frameworks and Dependencies
 Python Pandas
-
+HTML
 
 ### File Structure
-There are two notebooks, one to clean the data and the other dedicated to analysis.
-Screenshots in root folder three of which appear below.
-Analysis is inside notebook (.ipynb) file.
-CSV file holds data and can be found in "Resources" folder.
+- There are two notebooks, one has scripts to clean the data, and the other is dedicated to analysis.
+- Screenshots are in root folder, three of which appear below.
+- A brief analysis is here: <a href=''>School Days</a>
+- CSV file holds data and can be found in "Resources" folder.
 
 ### Visualizations
 
