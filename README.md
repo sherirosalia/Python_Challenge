@@ -12,7 +12,7 @@ HTML
 ### File Structure
 - There are two notebooks, one has scripts to clean the data, and the other is dedicated to analysis.
 - Screenshots are in root folder, three of which appear below.
-- A brief analysis is here: <a href=''>School Days</a>
+- A brief analysis is here: <a href='https://sherirosalia.github.io/School_Days/'>School Days</a>
 - CSV file holds data and can be found in "Resources" folder.
 
 ### Visualizations
